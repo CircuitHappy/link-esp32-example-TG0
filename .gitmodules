@@ -1,0 +1,4 @@
+[submodule "components/link_component/link"]
+	path = components/link_component/link
+	url = https://github.com/Ableton/link.git
+	branch = esp-pr
